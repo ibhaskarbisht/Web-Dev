@@ -226,6 +226,9 @@ display: none;
         
         
     }
+    .social-media{
+order:-2;}
+
     header{
         flex-direction: column;
         width: 100%;
